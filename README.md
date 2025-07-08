@@ -1,4 +1,4 @@
-# hgrl
+# Hyperbolic Graph Representation Learning: A Review of Methods and Applications
 
 ## Introduction
 
