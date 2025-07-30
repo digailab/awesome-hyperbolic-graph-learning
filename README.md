@@ -1,8 +1,8 @@
-# Hyperbolic Graph Representation Learning: A Review of Methods and Applications
+# Hyperbolic Graph Learning: A Comprehensive Review
 
 ## Introduction
 
-Recently, hyperbolic spaces have emerged as a promising alternative for processing data with a tree-like structure or power-law distribution, owing to its exponential growth property and tree-likeness prior. Different from the Euclidean space, which expands polynomially, the hyperbolic space grows exponentially which makes it gain natural advantages in abstracting tree-like or scale-free data with hierarchical organizations. This repository provides a curated list of articles referenced in the paper “Hyperbolic Graph Representation Learning: A Review of Methods and Applications”, aiming to support researchers and promote community development. For more articles on hyperbolic representations, please refer to our other [repository](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning?tab=readme-ov-file#content). 
+Recently, hyperbolic spaces have emerged as a promising alternative for processing data with a tree-like structure or power-law distribution, owing to its exponential growth property and tree-likeness prior. Different from the Euclidean space, which expands polynomially, the hyperbolic space grows exponentially which makes it gain natural advantages in abstracting tree-like or scale-free data with hierarchical organizations. This repository provides a curated list of articles referenced in the paper “Hyperbolic Graph Learning: A Comprehensive Review”, aiming to support researchers and promote community development. For more articles on hyperbolic representations, please refer to our other [repository](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning?tab=readme-ov-file#content). 
 We are aware that there will inevitably be some mistakes and oversights, so if you have any questions or suggestions, please feel free to contact us (menglin.yang[@]outlook.com).
 
 <table>
